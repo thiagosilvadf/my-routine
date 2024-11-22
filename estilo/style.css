@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(25, 148, 235, 0.927);
+}
+
+h1 {
+    font: 20pt normal;
+    text-align: center;
+    background-color: aqua;
+}
+
+* img {
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+div#imgp , div#imgn {
+    text-align: center;
+}
+
+p#foot {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a > p#foot {
+    color: black;
+    text-decoration
+}
